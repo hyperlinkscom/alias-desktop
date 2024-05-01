@@ -1,6 +1,6 @@
-# Alias Desktop
+# Hyperlinks Desktop
 
-Alias makes it easy to register and manage lots of domains. Alias Desktop is built with Tauri + Rust + Sycamore.
+Hyperlinks makes it easy to register and manage lots of domains. Hyperlinks Desktop is built with Tauri + Rust + Sycamore.
 
 ## Recommended IDE Setup
 
